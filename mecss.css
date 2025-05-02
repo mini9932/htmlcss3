@@ -1,0 +1,41 @@
+html,body{
+    height: 100%;
+}
+
+aside#left{
+    float: left; 
+    width: 15%; 
+    height: 70%;
+}
+section{
+    float: left;
+    width: 60%;
+    height: 70%;
+}
+aside#right{
+    float: right;
+    width: 22%;
+    height: 70%;
+}
+footer{
+    clear: both;
+}
+
+body{
+    
+    font-family: "Electrolize", sans-serif;
+    font-weight: 400;
+    font-style: normal;     
+}
+
+h1 {
+color: olive;
+text-shadow: 5px 5px 5px green;
+text-decoration: none;
+}
+
+a {
+    
+    text-decoration: none;
+}
+
